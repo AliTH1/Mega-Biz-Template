@@ -275,7 +275,7 @@
 }
 
 .left-content{
-    width: 70%;
+    width: 80%;
     height: 390px;
     float: left;
     position: relative;
@@ -322,13 +322,11 @@
 }
 
 .manufacturing{
-    width: 160px;
-    height: 120px;
+    width: 130px;
+    height: 150px;
     margin-left: 0px;
-    float: left;
-    position: absolute;
-    top: 60px;
-    right: 0px;
+    float: right;
+    margin: 50px 50px 0px 0px;
 }
 
 .manufacturing span{
@@ -345,23 +343,17 @@
 .person{
     width: 165px;
     height: 120px;
-    margin-left: 0px;
     float: left;
-    position: absolute;
-    top: 200px;
-    right: 0px;
 }
 
 .person span{
     font-size: 20px;
     color: white;
-    margin-left: 20px;
 }
 
 .person img{
     width: 90px;
     height: 90px;
-    margin-left: 40px;
 }
 
 .finger{
@@ -438,7 +430,7 @@
 }
 
 .right-content{
-    width: 500px;
+    width: 80%;
     height: 190px;
     margin-top: 80px;
     float: left;
@@ -446,14 +438,14 @@
 }
 
 .text-1{
-    width: 500px;
+    width: 100%;
     height: 130px;
     float: left;
     font-size: 30px;
 }
 
 .text-2{
-    width: 500px;
+    width: 100%;
     height: 45px;
     margin-top: 15px;
     float: left;
