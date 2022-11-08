@@ -1,0 +1,469 @@
+.con-color-1{
+    min-height: 100px;
+}
+
+.head{
+    min-height: 100px;
+    position: relative;
+}
+
+.logo{
+    width: 400px;
+    height: 100px;
+    position: absolute;
+    left: 0px;
+}
+
+.head-2{
+    min-height: 100px;
+}
+
+.icons{
+    width: 110px;
+    height: 50px;
+    margin-top: 25px;
+    float: right;
+}
+
+.search-icon{
+    width: 35px;
+    height: 35px;
+    border-radius: 20px;
+    float: left;
+    background-color: gray;
+    position: relative;
+    top: 5px;
+}
+
+.search-icon i{
+    position: absolute;
+    color: white;
+    top: 10px;
+    left: 11px;
+}
+
+.twitter-icon{
+    width: 35px;
+    height: 35px;
+    border-radius: 20px;
+    float: left;
+    background-color: rgb(4, 131, 210);
+    position: relative;
+    top: 5px;
+}
+
+.twitter-icon i{
+    position: absolute;
+    color: white;
+    top: 11px;
+    left: 11px;
+}
+
+.facebook-icon{
+    width: 35px;
+    height: 35px;
+    border-radius: 20px;
+    float: left;
+    background-color: rgb(0, 52, 87);
+    position: relative;
+    top: 5px;
+}
+
+.facebook-icon i{
+    position: absolute;
+    color: white;
+    top: 11px;
+    left: 13px;
+}
+
+
+
+.con-color-2{
+    min-height: 45px;
+}
+
+.nav-color-1{
+    background-color:rgb(56, 56, 56);
+    min-height: 45px;
+}
+
+
+.home-button a{
+    width: 70px;
+    height: 45px;
+    float: left;
+    text-decoration: none;
+    color: white;
+    position: relative;
+}
+
+.home-button span{
+    position: absolute;
+    top: 12px;
+    left: 13.5px;
+}
+
+.home-link:hover{
+    background-color: rgb(77, 77, 77);
+}
+
+.about-button a{
+    width: 70px;
+    height: 45px;
+    float: left;
+    text-decoration: none;
+    color: white;
+    position: relative;
+}
+
+.about-button span{
+    position: absolute;
+    top: 12px;
+    left: 12px;
+}
+
+.about-link:hover{
+    background-color: rgb(77, 77, 77);
+}
+
+
+.services-button a{
+    width: 95px;
+    height: 45px;
+    float: left;
+    text-decoration: none;
+    color: white;
+    position: relative;
+}
+
+.services-button span{
+    position: absolute;
+    top: 12px;
+    left: 12px;
+}
+
+.services-link:hover{
+    background-color: rgb(77, 77, 77);
+}
+
+.pages-button a{
+    width: 70px;
+    height: 45px;
+    float: left;
+    text-decoration: none;
+    color: white;
+    position: relative;
+}
+
+.pages-button span{
+    position: absolute;
+    top: 12px;
+    left: 12px;
+}
+
+.pages-link:hover{
+    background-color: rgb(77, 77, 77);
+}
+
+.blog-button a{
+    width: 60px;
+    height: 45px;
+    float: left;
+    text-decoration: none;
+    color: white;
+    position: relative;
+}
+
+.blog-button span{
+    position: absolute;
+    top: 12px;
+    left: 10px;
+}
+
+.blog-link:hover{
+    background-color: rgb(77, 77, 77);
+}
+
+.contact-button a{
+    width: 90px;
+    height: 45px;
+    float: left;
+    text-decoration: none;
+    color: white;
+    position: relative;
+}
+
+.contact-button span{
+    position: absolute;
+    top: 12px;
+    left: 12px;
+}
+
+.contact-link:hover{
+    background-color: rgb(77, 77, 77);
+}
+
+
+
+.nav-color-2{
+    background-color:rgb(56, 56, 56);
+    min-height: 45px;
+}
+
+.contact-info{
+    width: 400px;
+    height: 45px;
+    float: right;
+}
+
+.phone-number{
+    width: 200px;
+    height: 45px;
+    float: left;
+    position: relative;
+}
+
+.phone-icon{
+    width: 25px;
+    height: 25px;
+    margin-top: 10px;
+    float: left;
+    color: white;
+}
+
+.phone-number span{
+    position: absolute;
+    top: 13px;
+    left: 30px;
+    color: white;
+}
+
+
+
+.mail-info{
+    width: 200px;
+    height: 45px;
+    float: left;
+    position: relative;
+}
+
+.mail-icon{
+    width: 25px;
+    height: 25px;
+    margin-top: 7px;
+    float: left;
+    color: white;
+}
+
+.mail-info span{
+    position: absolute;
+    top: 12px;
+    left: 35px;
+    color: white;
+}
+
+
+
+.con-color-3{
+    min-height: 430px;
+    border-top: 2px solid rgb(83, 169, 255);
+    background-image: url("../img/background.jpg");
+}
+
+.left-con-content{
+    min-height: 430px;
+}
+
+.left-content{
+    width: 450px;
+    height: 390px;
+    float: left;
+    position: relative;
+    top: 25px;
+    left: 80px;
+}
+
+.m3-symbol{
+    width: 160px;
+    height: 160px;
+    border-radius: 100px;
+    float: left;
+    background-color: rgb(22, 110, 251);
+    position: relative;
+    top: 130px;
+    left: 135px;
+}
+
+.m3-symbol img{
+    width: 140px;
+    height: 140px;
+    margin: 10px 0px 0px 10px;
+}
+
+.research{
+    width: 160px;
+    height: 120px;
+    margin-left: 0px;
+    float: left;
+    position: absolute;
+    top: 5px;
+    left: 155px;
+}
+
+.research span{
+    font-size: 20px;
+    color: white;
+}
+
+.research img{
+    width: 90px;
+    height: 90px;
+    margin-left: 15px;
+}
+
+.manufacturing{
+    width: 160px;
+    height: 120px;
+    margin-left: 0px;
+    float: left;
+    position: absolute;
+    top: 60px;
+    right: 0px;
+}
+
+.manufacturing span{
+    font-size: 20px;
+    color: white;
+}
+
+.manufacturing img{
+    width: 90px;
+    height: 90px;
+    margin-left: 15px;
+}
+
+.person{
+    width: 165px;
+    height: 120px;
+    margin-left: 0px;
+    float: left;
+    position: absolute;
+    top: 200px;
+    right: 0px;
+}
+
+.person span{
+    font-size: 20px;
+    color: white;
+    margin-left: 20px;
+}
+
+.person img{
+    width: 90px;
+    height: 90px;
+    margin-left: 40px;
+}
+
+.finger{
+    width: 160px;
+    height: 120px;
+    float: left;
+    position: absolute;
+    left: 110px;
+    bottom: 0px;
+}
+
+.finger span{
+    font-size: 20px;
+    position: absolute;
+    top: 50px;
+    color: white;
+}
+
+.finger img{
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    left: 70px;
+    bottom: 0px;
+}
+
+.train{
+    width: 165px;
+    height: 150px;
+    float: left;
+    position: absolute;
+    top: 165px;
+}
+
+.train span{
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    bottom: 0px;
+}
+
+.train img{
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    top: 5px;
+}
+
+.brain{
+    width: 150px;
+    height: 150px;
+    float: left;
+    position: absolute;
+}
+
+.brain span{
+    width: 120px;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+}
+
+.brain img{
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    bottom: 0px;
+    left: 30px;
+}
+
+
+.right-con-content{
+    min-height: 430px;
+}
+
+.right-content{
+    width: 500px;
+    height: 190px;
+    margin-top: 80px;
+    float: left;
+    color: white;
+}
+
+.text-1{
+    width: 500px;
+    height: 130px;
+    float: left;
+    font-size: 30px;
+}
+
+.text-2{
+    width: 500px;
+    height: 45px;
+    margin-top: 15px;
+    float: left;
+    background-color: gray;
+    font-size: 18px;
+    position: relative;
+}
+
+.text-2 p{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
